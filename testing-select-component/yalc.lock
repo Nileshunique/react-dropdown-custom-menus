@@ -1,0 +1,9 @@
+{
+  "version": "v1",
+  "packages": {
+    "select-autoselect": {
+      "signature": "14b786b4581159726cecb80093a77516",
+      "file": true
+    }
+  }
+}
