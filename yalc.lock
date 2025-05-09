@@ -1,8 +1,8 @@
 {
   "version": "v1",
   "packages": {
-    "select-autoselect": {
-      "signature": "14b786b4581159726cecb80093a77516",
+    "react-dropdown-custom-menus": {
+      "signature": "f1b04233d36119df5fa506f1cd0ff8db",
       "file": true
     }
   }
