@@ -1,11 +1,14 @@
-import Select from "../../src";
+import React from "react";
+// import PopperComponent from "./PopperComponent";
+import SelectComponent from "./components/SelectComponent";
 
-function App() {
+const App = () => {
   return (
     <div>
-      <Select />
+      <SelectComponent />
+      {/* <PopperComponent /> */}
     </div>
   );
-}
+};
 
 export default App;

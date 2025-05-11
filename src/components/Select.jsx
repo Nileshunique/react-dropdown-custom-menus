@@ -1,13 +1,7 @@
 import React from "react";
 
 const Select = () => {
-  return (
-    <div>
-      <select>
-        <option value="dsjksd">jksdlsd</option>
-      </select>
-    </div>
-  );
+  return <div>Select</div>;
 };
 
 export default Select;
